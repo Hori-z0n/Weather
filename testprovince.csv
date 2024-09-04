@@ -1,78 +1,78 @@
-number,id,name,temperature
-1,37,Amnat Charoen,35.5
-2,15,Ang Thong,36
-3,10,Bangkok,35.6
-4,38,Bueng Kan,35.5
-5,31,Buriram,36.2
-6,24,Chachoengsao,34.1
-7,22,Chanthaburi,35.5
-8,36,Chaiyaphum,34.7
-9,18,Chainat,35.3
-10,50,Chiang Mai,33.3
-11,57,Chiang Rai,35.5
-12,20,Chonburi,36.1
-13,86,Chumphon,35.7
-14,46,Kalasin,13.7
-15,62,Kamphaeng Phet,12
-16,71,Kanchanaburi,12.5
-17,40,Khon Kaen,35.6
-18,81,Krabi,36.7
-19,52,Lampang,34.8
-20,51,Lamphun,34.6
-21,42,Loei,34.9
-22,16,Lopburi,34.6
-23,58,Mae Hong Son,34.3
-24,44,Maha Sarakham,33.2
-25,49,Mukdahan,35.1
-26,26,Nakhon Nayok,34.5
-27,73,Nakhon Pathom,33.7
-28,48,Nakhon Phanom,35
-29,30,Nakhon Ratchasima,33.6
-30,60,Nakhon Sawan,35.1
-31,80,Nakhon Si Thammarat,33.6
-32,55,Nan,34.7
-33,96,Narathiwat,36.3
-34,39,Nong Bua Lamphu,35.6
-35,43,Nong Khai,34.5
-36,12,Nonthaburi,34.1
-37,13,Pathum Thani,33.5
-38,94,Pattani,32
-39,82,Phang Nga,34.5
-40,93,Phatthalung,36
-41,56,Phayao,35.1
-42,67,Phetchabun,36
-43,76,Phetchaburi,34.7
-44,66,Phichit,16.6
-45,65,Phitsanulok,34.5
-46,14,Phra Nakhon Si Ayutthaya,36.5
-47,54,Phrae,35.1
-48,83,Phuket,37
-49,25,Prachin Buri,35.1
-50,77,Prachuap Khiri Khan,35
-51,85,Ranong,33.6
-52,70,Ratchaburi,34.3
-53,21,Rayong,34.6
-54,45,Roi Et,35.2
-55,27,Sa Kaeo,33
-56,47,Sakon Nakhon,34.2
-57,19,Saraburi,33.2
-58,11,Samut Prakan,33
-59,74,Samut Sakhon,33.9
-60,75,Samut Songkhram,34
-61,91,Satun,34
-62,17,Sing Buri,22.1
-63,33,Sisaket,21.5
-64,90,Songkhla,33.3
-65,64,Sukhothai,33.1
-66,72,Suphan Buri,35.7
-67,84,Surat Thani,33.8
-68,32,Surin,37
-69,63,Tak,36.3
-70,92,Trang,37.2
-71,23,Trat,35
-72,34,Ubon Ratchathani,36.5
-73,41,Udon Thani,33.5
-74,61,Uthai Thani,34.2
-75,53,Uttaradit,34
-76,95,Yala,35.3
-77,35,Yasothon,36.2
+id,name,temperature
+1,Amnat Charoen,35.5
+2,Ang Thong,36
+3,Bangkok Metropolis,35.6
+4,Bueng Kan,35.5
+5,Buri Ram,36.2
+6,Chachoengsao,34.1
+7,Chai Nat,35.5
+8,Chaiyaphum,34.7
+9,Chanthaburi,35.3
+10,Chiang Mai,33.3
+11,Chiang Rai,35.5
+12,Chon Buri,36.1
+13,Chumphon,35.7
+14,Kalasin,13.7
+15,Kamphaeng Phet,12
+16,Kanchanaburi,12.5
+17,Khon Kaen,35.6
+18,Krabi,36.7
+19,Lampang,34.8
+20,Lamphun,34.6
+21,Loei,34.9
+22,Lop Buri,34.6
+23,Mae Hong Son,34.3
+24,Maha Sarakham,33.2
+25,Mukdahan,35.1
+26,Nakhon Nayok,34.5
+27,Nakhon Pathom,33.7
+28,Nakhon Phanom,35
+29,Nakhon Ratchasima,33.6
+30,Nakhon Sawan,35.1
+31,Nakhon Si Thammarat,33.6
+32,Nan,34.7
+33,Narathiwat,36.3
+34,Nong Bua Lam Phu,35.6
+35,Nong Khai,34.5
+36,Nonthaburi,34.1
+37,Pathum Thani,33.5
+38,Pattani,32
+39,Phangnga,34.5
+40,Phatthalung,36
+41,Phayao,35.1
+42,Phetchabun,36
+43,Phetchaburi,34.7
+44,Phichit,16.6
+45,Phitsanulok,34.5
+46,Phra Nakhon Si Ayutthaya,36.5
+47,Phrae,35.1
+48,Phuket,37
+49,Prachin Buri,35.1
+50,Prachuap Khiri Khan,35
+51,Ranong,33.6
+52,Ratchaburi,34.3
+53,Rayong,34.6
+54,Roi Et,35.2
+55,Sa Kaeo,33
+56,Sakon Nakhon,34.2
+57,Samut Prakan,33.2
+58,Samut Sakhon,33
+59,Samut Songkhram,33.9
+60,Saraburi,34
+61,Satun,34
+62,Si Sa Ket,22.1
+63,Sing Buri,21.5
+64,Songkhla,33.3
+65,Sukhothai,33.1
+66,Suphan Buri,35.7
+67,Surat Thani,33.8
+68,Surin,37
+69,Tak,36.3
+70,Trang,37.2
+71,Trat,35
+72,Ubon Ratchathani,36.5
+73,Udon Thani,33.5
+74,Uthai Thani,34.2
+75,Uttaradit,34
+76,Yala,35.3
+77,Yasothon,36.2
