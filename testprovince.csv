@@ -12,9 +12,9 @@ id,name,temperature
 11,Chiang Rai,35.5
 12,Chon Buri,36.1
 13,Chumphon,35.7
-14,Kalasin,13.7
-15,Kamphaeng Phet,12
-16,Kanchanaburi,12.5
+14,Kalasin,30
+15,Kamphaeng Phet,29
+16,Kanchanaburi,29
 17,Khon Kaen,35.6
 18,Krabi,36.7
 19,Lampang,34.8
@@ -60,7 +60,7 @@ id,name,temperature
 59,Samut Songkhram,33.9
 60,Saraburi,34
 61,Satun,34
-62,Si Sa Ket,22.1
+62,Si Sa Ket,30
 63,Sing Buri,21.5
 64,Songkhla,33.3
 65,Sukhothai,33.1
